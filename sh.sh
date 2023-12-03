@@ -1,1 +1,1 @@
-wget https://packagecloud.io/install/repositories/pufferpanel/pufferpanel/script.deb.sh
+sudo wget -qO- https://raw.githubusercontent.com/mcsmanager/Script/master/setup.sh | bash
